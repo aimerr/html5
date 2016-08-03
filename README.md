@@ -1,2 +1,2 @@
 # html5
-Convert from div tags to semantic html5 tags
+Convertir etiquetas div en etiquetas con sentido semántico
